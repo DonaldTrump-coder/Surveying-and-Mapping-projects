@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>front_intersection.jpg</file>
+        <file>back_intersection.jpg</file>
+    </qresource>
+</RCC>
